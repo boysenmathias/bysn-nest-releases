@@ -1,0 +1,22 @@
+{
+  "product": "bysn-nest",
+  "channel": "stable",
+  "version": "0.1.1",
+  "date": "2026-11-26",
+  "notes": "Merge pull request #36: versie 0.1.1, nest-dev en omgevingsoverzicht\n\nVersie 0.1.1, nest-dev en omgevingsoverzicht\n",
+  "release_manifest_url": "https://github.com/boysenmathias/bysn-nest-releases/releases/download/v{version}/manifest.json",
+  "artifacts": {
+    "deb-x86_64": {
+      "file": "bysn-nest-server_0.1.1_amd64.deb",
+      "url": "https://github.com/boysenmathias/bysn-nest-releases/releases/download/v0.1.1/bysn-nest-server_0.1.1_amd64.deb",
+      "sha256": "dc46d072b62776ff51dd081ed043399695889c5321c84646faf1c2ce5aa73614",
+      "size": 35630768
+    },
+    "win-x86_64": {
+      "file": "BYSN-Nest-Server-0.1.1-x64.exe",
+      "url": "https://github.com/boysenmathias/bysn-nest-releases/releases/download/v0.1.1/BYSN-Nest-Server-0.1.1-x64.exe",
+      "sha256": "f6a4bdce9e3f89cdd5ec9d79d24543bb60ba8ff9537afaa3e5d6e4ef986baa55",
+      "size": 62134873
+    }
+  }
+}
